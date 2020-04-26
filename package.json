@@ -1,6 +1,6 @@
 {
   "name": "sts-assume",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Create temporary profile session from aws STS assume-role",
   "main": "index.js",
   "bin": "index.js",
