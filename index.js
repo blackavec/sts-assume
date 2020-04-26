@@ -60,5 +60,5 @@ const awsConfig = require("./src/aws-config");
   awsConfig.updateConfig("config", awsConfigFile);
 
   console.log(`Make sure you will have this executed:\n`);
-  console.log(`\texport AWS_PROFILE=${loadedConfig.roleSessionName}`);
+  console.log(`\texport AWS_PROFILE=${loadedConfig.roleSessionName}\n`);
 })();
