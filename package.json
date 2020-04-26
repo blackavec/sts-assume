@@ -1,0 +1,23 @@
+{
+  "name": "sts-assume",
+  "version": "1.0.0",
+  "description": "Create temporary profile session from aws STS assume-role",
+  "main": "index.js",
+  "bin": {
+    "sts-assume": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackavec/sts-assume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackavec/sts-assume/issues"
+  },
+  "homepage": "https://github.com/blackavec/sts-assume#readme"
+}
