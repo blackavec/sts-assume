@@ -1,9 +1,9 @@
 {
   "name": "sts-assume",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Create temporary profile session from aws STS assume-role",
   "main": "index.js",
-  "bin": "node index.js",
+  "bin": "index.js",
   "scripts": {
     "install": "chmod +x index.js",
     "start": "node index.js"
