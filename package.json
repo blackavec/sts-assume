@@ -5,6 +5,7 @@
   "main": "index.js",
   "bin": "node index.js",
   "scripts": {
+    "install": "chmod +x index.js",
     "start": "node index.js"
   },
   "repository": {
